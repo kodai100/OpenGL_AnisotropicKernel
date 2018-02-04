@@ -1,5 +1,6 @@
 # OpenGL_AnisotropicKernel
 2D implementation of "Anisotropic Kernel" surface reconstruction algorithm.
+[https://cs.nyu.edu/~jihun/paper/sca2010.pdf](https://cs.nyu.edu/~jihun/paper/sca2010.pdf)
 
 # Screenshots
 ### Initial particle distribution
